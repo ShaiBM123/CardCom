@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "t3oJHmaT1x/drbKURSzIZDDQ2mnDlk1HMJ0WjYrbC3Q=",
+  "Source": "CardComSite1",
+  "BasePath": "_content/CardComSite1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CardComSite1\\wwwroot",
+      "Source": "CardComSite1",
+      "ContentRoot": "D:\\CardCom\\CardCom\\CardComSite1\\wwwroot\\",
+      "BasePath": "_content/CardComSite1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\CardCom\\CardCom\\CardComSite1\\wwwroot\\css\\site.css",
+      "SourceId": "CardComSite1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CardCom\\CardCom\\CardComSite1\\wwwroot\\",
+      "BasePath": "_content/CardComSite1",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\CardCom\\CardCom\\CardComSite1\\wwwroot\\index.html",
+      "SourceId": "CardComSite1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CardCom\\CardCom\\CardComSite1\\wwwroot\\",
+      "BasePath": "_content/CardComSite1",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\CardCom\\CardCom\\CardComSite1\\wwwroot\\js\\site.js",
+      "SourceId": "CardComSite1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CardCom\\CardCom\\CardComSite1\\wwwroot\\",
+      "BasePath": "_content/CardComSite1",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
